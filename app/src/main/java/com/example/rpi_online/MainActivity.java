@@ -93,5 +93,5 @@ public class MainActivity extends AppCompatActivity {
 
         }
 
-    }
+    }//I need some code for receving DataInputStream and show that string to the TextView
 }
